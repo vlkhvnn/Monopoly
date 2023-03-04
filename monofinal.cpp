@@ -8,6 +8,7 @@
 #include <cstring>
 using namespace std;
 // GLOBAL VARIABLES
+int PlayerMaxNum = 8;
 int turnNum = 0;
 int numPlayers;
 
